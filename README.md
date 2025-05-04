@@ -7,12 +7,18 @@ This is a repository with sample [malduck🦆](https://github.com/CERT-Polska/ma
 * remcos
 * revil
 * graphicalproton
+* cobalt strike
 
 ## Usage
 
 To install:
 ```shell
 pip install malduck
+```
+
+To install the cobalt strike configuration extractor
+```shell
+pip install libcsce
 ```
 
 To run the config extractor:
@@ -39,6 +45,9 @@ We've collected several malware samples that you should be able to extract using
 * [`win_graphical_proton_46299f696566a15638b4fdeffe91dc01ab1e4e07e980573c29531f1bc49d33f0`](https://bazaar.abuse.ch/sample/46299f696566a15638b4fdeffe91dc01ab1e4e07e980573c29531f1bc49d33f0)
 * [`win_graphical_proton_c7b01242d2e15c3da0f45b8adec4e6913e534849cde16a2a6c480045e03fbee4`](https://bazaar.abuse.ch/sample/c7b01242d2e15c3da0f45b8adec4e6913e534849cde16a2a6c480045e03fbee4)
 * [`win_graphical_proton_dc79c213a28493bb4ba2c8e274696a41530a5983c7a3586b31ff69a5291754e6`](https://bazaar.abuse.ch/sample/dc79c213a28493bb4ba2c8e274696a41530a5983c7a3586b31ff69a5291754e6)
+
+* [`win_cobalt_strike_e48176cbdc36ab68a2299bdd589e7b4358086dcb4da30fedc56b07104efc4726`](https://bazaar.abuse.ch/sample/e48176cbdc36ab68a2299bdd589e7b4358086dcb4da30fedc56b07104efc4726)
+* [`win_cobalt_strike_6cdf4ef384200493d95a03c2b5fac127ce7c47be5313edb7410199184bb0bcb2`](https://bazaar.abuse.ch/sample/6cdf4ef384200493d95a03c2b5fac127ce7c47be5313edb7410199184bb0bcb2)
 
 ## Learning more and creating your own modules
 
