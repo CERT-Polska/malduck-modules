@@ -1,5 +1,5 @@
+# This module was created by @dyussekeyev and is based on the CobaltStrike module from elastic/malware-exquacker-modules
 import logging
-import pprint
 from typing import List, cast, Any, Dict, TypeAlias
 from urllib.parse import urlparse, urlunparse
 
